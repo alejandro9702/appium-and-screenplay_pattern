@@ -1,1 +1,0 @@
-# appium-and-screenplay_pattern
